@@ -52,7 +52,7 @@ I use [Context](https://contexts.co/) to switch applications.  This is much, muc
 than the default OSX switcher.  You can alt-tab individual instances of applications (e.g. multiple
 Chrome windows) in the same interface as different applications.  
 
-## homeslice pattern to keep 
+## homeslice pattern to keep track of home directory files
 I keep all my useful config files in a private git repo using what I call the "homeslice" pattern.
 This is where your home directory is itself the root of a git repo.  The key trick is to only
 commit the files you want, rather than the many files under your home directory.  The way to do this is:
