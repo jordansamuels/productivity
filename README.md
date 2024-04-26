@@ -48,7 +48,7 @@ I never manually use the mouse to reposition/resize windows.  Ever.  I use [Spec
 And of course, I've customized the key bindings so I can do everything from the home row.
 
 ### Contexts for switching applications and windows
-I use [Context](https://contexts.co/) to switch applications.  This is much, much more powerful
+I use [Contexts](https://contexts.co/) to switch applications.  This is much, much more powerful
 than the default OSX switcher.  You can alt-tab individual instances of applications (e.g. multiple
 Chrome windows) in the same interface as different applications.  
 
